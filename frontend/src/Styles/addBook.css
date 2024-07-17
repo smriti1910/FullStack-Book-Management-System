@@ -1,0 +1,49 @@
+form {
+    background-color: rgb(186, 202, 239);
+    color: black;
+    padding: 2rem;
+    margin: 1rem auto;
+    border-radius: 5px;
+    max-width: 22em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 525;
+}
+
+form h2 {
+    font-weight: bold;
+    font-family: serif;
+    margin-bottom: 0px;
+    margin-top: -5px;
+    color: black;
+}
+
+form input {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: -25px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    align-self: center;
+}
+
+form button {
+    width: 50%;
+    padding: 0.4rem;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 10px;
+    margin-top: 2.4em;
+    align-self: center;
+}
+
+.add-response {
+    color: rgb(32, 210, 32);
+    margin-bottom: -2px;
+}

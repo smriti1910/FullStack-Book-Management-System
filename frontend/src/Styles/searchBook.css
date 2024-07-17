@@ -1,0 +1,48 @@
+.books {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.book-details {
+    display: flex;
+    flex-direction: column;
+    border: solid rgb(234, 217, 217) 2px;
+    box-shadow: rgba(211, 194, 194, 0.24) 0px 3px 8px;
+    border-radius: 15px;
+    padding: 7px;
+    margin: 8px;
+    width: 20em;
+    gap: 4.5px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.search-p {
+    font-weight: bold;
+    font-family: serif;
+    color: black;
+}
+
+h2 {
+    font-size: 1.3em;
+    margin: 0 0 0 0;
+    color: oldlace;
+}
+
+p {
+    font-size: 1em;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    padding: 0px 1em;
+    margin: 0 0 0 0;
+    gap: 10px;
+    color: rgb(39, 122, 246);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.highlight {
+    color: rgb(37, 210, 37);
+}
