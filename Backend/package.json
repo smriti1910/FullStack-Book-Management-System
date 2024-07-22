@@ -8,8 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Siddarthan",
-  "reg-no": "212221040154",
+  "author": "Smriti.B",
+  "reg-no": "212221040156",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",

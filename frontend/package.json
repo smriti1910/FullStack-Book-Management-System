@@ -3,8 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "author": "Siddarthan",
-  "reg-no": "212221040154",
+  "author": "Smriti.B",
+  "reg-no": "212221040156",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
